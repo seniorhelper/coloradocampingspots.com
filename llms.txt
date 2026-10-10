@@ -1,6 +1,6 @@
 # Colorado Camping Spots
 
-> A Colorado camping guide covering tent, RV, dispersed, BLM and state park camping across the Rockies, with campgrounds organized by region, reservation windows, fire rules and trip preparation. Published by Eye To Ad Media, 1001 Bannock St #660, Denver, CO 80204.
+> A Colorado camping guide covering tent, RV, dispersed, BLM and state park camping across the Rockies, with campgrounds organized by region, reservation windows, fire rules and trip preparation. Published by Eye To Ad Media.
 
 ## Pages
 
@@ -8,7 +8,27 @@
 - [Best Camping Spots in Colorado](https://coloradocampingspots.com/best-camping-spots-in-colorado/): 100 Colorado campgrounds grouped into regions from Rocky Mountain National Park to the San Juans, Grand Mesa and the Eastern Plains, with comparison tables and an FAQ.
 - [Camping During Hunting Season in Colorado](https://coloradocampingspots.com/camping-during-hunting-season-colorado/): Where hunting is and is not allowed, wearing orange, dogs, finding a campsite during the fall big game seasons, and checking current dates with Colorado Parks and Wildlife.
 
-## Contact and advertising
+## Contact
 
-- Phone: 720-249-6588 or 1-800-481-8638
-- Advertising inquiries: https://coloradocampingspots.com/#advertise
+- https://coloradocampingspots.com/contact/
+
+## Guides added October 2026
+
+- [About Colorado Camping Spots](https://coloradocampingspots.com/about/): About Colorado Camping Spots: who publishes this independent Colorado camping guide, what it covers, how it is funded and how to send corrections.
+- [Backpacking Permits in Colorado](https://coloradocampingspots.com/backpacking-permits-colorado/): Where Colorado backcountry trips need overnight permits: Rocky Mountain National Park, Indian Peaks, Maroon Bells-Snowmass, Great Sand Dunes and Black Canyon.
+- [Bear Safety for Colorado Campers](https://coloradocampingspots.com/bear-safety-camping-colorado/): Bear safety for Colorado campers: black bear behavior, food storage in camp and the backcountry, canister rules and what to do if a bear visits.
+- [BLM Camping in Colorado](https://coloradocampingspots.com/blm-camping-colorado/): Camping on BLM land in Colorado: the 14-day, 30-air-mile occupancy rule, developed BLM campgrounds, desert conditions and fire orders.
+- [Camping Near Denver](https://coloradocampingspots.com/camping-near-denver/): Where to camp near Denver: Chatfield, Cherry Creek, Golden Gate Canyon and Staunton state parks, Pike National Forest designated sites and Brainard Lake.
+- [How Colorado Campsite Reservations Work](https://coloradocampingspots.com/colorado-camping-reservations/): How campsite reservations work in Colorado: Recreation.gov for federal sites, CPW's system for state parks, booking windows, release times and cancellations.
+- [Camping Safety in Colorado](https://coloradocampingspots.com/colorado-camping-safety/): Stay safe camping in Colorado: lightning rules, altitude sickness, treating water, cold nights, flash floods, navigation and getting help.
+- [Colorado Camping Seasons](https://coloradocampingspots.com/colorado-camping-seasons/): When to camp in Colorado: how elevation sets the season, month-by-month conditions, high campground openings, monsoon storms and winter options.
+- [Colorado Fire Restrictions, Explained](https://coloradocampingspots.com/colorado-fire-restrictions/): Colorado campfire rules explained: what Stage 1 and Stage 2 fire restrictions ban, who sets them, where to check current orders and safe fires.
+- [Camping in Colorado State Parks](https://coloradocampingspots.com/colorado-state-parks-camping/): Camping in Colorado state parks: CPW reservations, the Keep Colorado Wild Pass, stay limits, pet rules, cabins, yurts and check-in times.
+- [Contact us](https://coloradocampingspots.com/contact/): Contact the editors of Colorado Camping Spots with corrections, campground updates, questions or suggestions about camping in Colorado.
+- [Dispersed Camping in Colorado](https://coloradocampingspots.com/dispersed-camping-colorado/): Free dispersed camping on Colorado national forests: stay limits, distances from water, Motor Vehicle Use Maps and designated-site areas.
+- [How we research](https://coloradocampingspots.com/editorial-policy/): Editorial standards for Colorado Camping Spots: official agency sources, how we handle fees and site counts, safety guidance and updates.
+- [Leave No Trace, Colorado Style](https://coloradocampingspots.com/leave-no-trace-colorado/): Leave No Trace for Colorado campers: the seven principles applied to alpine tundra, desert soil, crowded trailheads, human waste, campfires and wildlife.
+- [Colorado's Other National Park Campgrounds](https://coloradocampingspots.com/national-park-camping-colorado/): Camping at Mesa Verde, Great Sand Dunes, Black Canyon, Colorado National Monument and Dinosaur: campgrounds, booking rules and permits.
+- [Privacy policy](https://coloradocampingspots.com/privacy/): How Colorado Camping Spots handles data: Google AdSense and vendor ad cookies, how to opt out, consent for EEA and UK visitors, and contact messages.
+- [Camping in Rocky Mountain National Park](https://coloradocampingspots.com/rocky-mountain-national-park-camping/): Camping in Rocky Mountain National Park: Aspenglen, Glacier Basin, Moraine Park, Timber Creek and Longs Peak, timed entry and wilderness permits.
+- [Terms & safety disclaimer](https://coloradocampingspots.com/terms/): Terms of use and safety disclaimer for Colorado Camping Spots: information accuracy, outdoor risk, agency rules, outbound links and our content.
