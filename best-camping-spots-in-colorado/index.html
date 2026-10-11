@@ -2153,10 +2153,12 @@ footer::before{
 
 <script>
 
-const rollupObs = new IntersectionObserver((entries)=>{
-  entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add("in");rollupObs.unobserve(e.target);}});
-},{threshold:.12,rootMargin:"0px 0px -60px 0px"});
-document.querySelectorAll(".roll-up").forEach(el=>rollupObs.observe(el));
+var rvList = Array.prototype.slice.call(document.querySelectorAll('.roll-up')), rvTick = false;
+function rvCheck(){ rvTick = false; var line = window.innerHeight * 0.92, atEnd = (window.innerHeight + window.scrollY) >= document.documentElement.scrollHeight - 4;
+  rvList = rvList.filter(function(el){ if(atEnd || el.getBoundingClientRect().top < line){ el.classList.add('in'); return false; } return true; });
+  if(!rvList.length){ window.removeEventListener('scroll', rvOnScroll); window.removeEventListener('resize', rvOnScroll); } }
+function rvOnScroll(){ if(!rvTick){ rvTick = true; requestAnimationFrame(rvCheck); } }
+if(rvList.length){ window.addEventListener('scroll', rvOnScroll, {passive:true}); window.addEventListener('resize', rvOnScroll); rvCheck(); }
 
 </script>
 <script src="/assets/site.js" defer></script>
